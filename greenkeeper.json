@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "web3-play/package.json"
+      ]
+    }
+  }
+}
